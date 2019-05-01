@@ -2,6 +2,7 @@
 $lang = array(
 	"LoginError"=>"*The user name must be filled in.",
 	"newText"=>"This is testing for git",
+	"newTwo"=>"This is new 2 testing for git",
 	"PasswordError"=>"*Password must be completed.",
 	"ErrorPassLogin"=>"Invalid username or password!",
     "login" => "Login",
